@@ -1,9 +1,9 @@
 {
   "name": "aninest1",
   "private": true,
-  "homepage": "https://gihanwlf.github.io/Aninest1/",
   "version": "0.1.0",
   "type": "module",
+  "homepage": "https://gihanwlf.github.io/Aninest1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
