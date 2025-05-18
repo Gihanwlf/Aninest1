@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "node deploy.js"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.18",
