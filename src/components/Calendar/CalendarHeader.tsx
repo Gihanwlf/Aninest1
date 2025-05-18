@@ -29,7 +29,6 @@ export const CalendarHeader: React.FC<CalendarHeaderProps> = ({
   goToNextMonth,
   goToCurrentMonth,
   goToSeason,
-  currentSeason,
   currentYear,
 }) => {
   const [showSeasonDropdown, setShowSeasonDropdown] = React.useState(false);
